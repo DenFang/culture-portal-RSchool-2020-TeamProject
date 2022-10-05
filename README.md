@@ -1,6 +1,4 @@
-# RSSchool Culture Portal
-
-### Task https://github.com/rolling-scopes-school/tasks/blob/2019-Q3/tasks/codejam-culture-portal.md
+# RSSchool Team Project Culture Portal
 
 ## How to run project:
 #### npm install
